@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e054b4d6-2121-4497-b208-183dd5c8999a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoNelioAlvesJavaUdemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/Aula34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/curso_programacao/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/curso_programacao/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/curso_programacao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/curso_programacao/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/curso_programacao/aula39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/secao6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/secao6/MainAula44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/secao6/MainFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/secao7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/secao7/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DocsJava/DaysOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DocsJava/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuanabaraYoutube/pooJava/aula02/Aula03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuanabaraYoutube/pooJava/aula02/Caneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coursera/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafios/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2X2FTdvws5FzBWVokxj6su0qXQD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Athay/eclipse/java-2023-06&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e054b4d6-2121-4497-b208-183dd5c8999a" name="Changes" comment="" />
+      <created>1697819282107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697819282107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GuanabaraYoutube/pooJava/aula02/Caneta.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AulasProfeNelioAlves/secao6/MainAula44.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AulasProfeNelioAlves/secao6/MainFor.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AulasProfeNelioAlves/secao6/MainFor.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AulasProfeNelioAlves/secao6/MainFor.java</url>
+          <line>6</line>
+          <properties class="AulasProfeNelioAlves.secao6.MainFor" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
