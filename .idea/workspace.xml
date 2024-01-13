@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e054b4d6-2121-4497-b208-183dd5c8999a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoNelioAlvesJavaUdemy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/Aula34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/curso_programacao/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/curso_programacao/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/curso_programacao/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/curso_programacao/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/curso_programacao/aula39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/secao6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/secao6/MainAula44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/secao6/MainFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/secao7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/secao7/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DocsJava/DaysOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DocsJava/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GuanabaraYoutube/pooJava/aula02/Aula03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GuanabaraYoutube/pooJava/aula02/Caneta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coursera/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AulasProfeNelioAlves/secao7/MainAula57FuncoesForString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AulasProfeNelioAlves/secao7/MainAula57FuncoesForString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
